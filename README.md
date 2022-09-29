@@ -9,7 +9,7 @@ Please follow the [official website](https://codalab.lisn.upsaclay.fr/competitio
 The code was tested with Python 3.7 and Pytorch >= 1.10.0.
 
 ## Running code under the competition setting
-The details of meta-learner, learner, and predictor can be found in model.py. 
+The details of meta-learner, learner, and predictor can be found in ``model.py``. 
 Please follow the [official tutorial](https://github.com/DustinCarrion/cd-metadl) to run the codes.  
 
 Here is an example. First, enter into the ``cd-metadl`` folder, and move the package of cdml22-ltan into the ``baselines`` folder. Then run the following command to train the model and get test results:
